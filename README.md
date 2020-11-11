@@ -8,8 +8,8 @@ A new parameter is added: `threhold`
 
 `threhold` determinded the max distance between any two cluster, that is, the distance between any returned two cluster in no less than threhold.
 
-##Example
-Just run:
+## Example
+A simple example is given, just run:
 
 ```
 python test_cluster_example.py
